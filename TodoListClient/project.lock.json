@@ -12587,19 +12587,18 @@
       ]
     },
     "Microsoft.ApplicationInsights.WindowsApps/1.0.0": {
-      "sha512": "fNCAjIwvbTV+G0dT14bgM5tptsqeSaKQaCrlq7QknOq1Xdm8ZmgsDYddMgXkvykyKLjWyU6fKuOpj6fsQJy+wQ==",
-      "type": "Package",
+      "sha512": "NvBQnFeiFd0O1QdBz06UGApD7zn7ztVi7qO18IsM3EjiXRNgfrEBXB+azNm8XqLY8xGFAqh3HAuSd/wHZMe0XA==",
+      "type": "package",
+      "path": "Microsoft.ApplicationInsights.WindowsApps/1.0.0",
       "files": [
+        "Microsoft.ApplicationInsights.WindowsApps.1.0.0.nupkg.sha512",
         "Microsoft.ApplicationInsights.WindowsApps.nuspec",
-        "[Content_Types].xml",
-        "_rels/.rels",
         "lib/win81/Microsoft.ApplicationInsights.Extensibility.Windows.XML",
         "lib/win81/Microsoft.ApplicationInsights.Extensibility.Windows.dll",
         "lib/wp8/Microsoft.ApplicationInsights.Extensibility.Windows.XML",
         "lib/wp8/Microsoft.ApplicationInsights.Extensibility.Windows.dll",
         "lib/wpa81/Microsoft.ApplicationInsights.Extensibility.Windows.XML",
-        "lib/wpa81/Microsoft.ApplicationInsights.Extensibility.Windows.dll",
-        "package/services/metadata/core-properties/4f6f732debe548beaa1183418e8d65cc.psmdcp"
+        "lib/wpa81/Microsoft.ApplicationInsights.Extensibility.Windows.dll"
       ]
     },
     "Microsoft.CSharp/4.0.0": {
@@ -12644,8 +12643,9 @@
       ]
     },
     "Microsoft.IdentityModel.Clients.ActiveDirectory/3.9.304210845": {
-      "sha512": "3n1B8JEMjqdDoYM3pIBRTt5xWKHib9zPBjaijRP2l+neb1TWZa59jBn6btNLd3nw9XyEzfFN5X1KBp5EYGIkRg==",
+      "sha512": "9R0+QuRYGm29FLV4/bOVoHUf4tAMQoE4btYQozckXVrQVgpEGgZpNIQNtKmzHXlbSHkWRxYYRpiNibAuCqNkkA==",
       "type": "package",
+      "path": "Microsoft.IdentityModel.Clients.ActiveDirectory/3.9.304210845",
       "files": [
         "Microsoft.IdentityModel.Clients.ActiveDirectory.3.9.304210845.nupkg.sha512",
         "Microsoft.IdentityModel.Clients.ActiveDirectory.nuspec",
@@ -16000,5 +16000,7 @@
       "Microsoft.NETCore.UniversalWindowsPlatform >= 5.0.0"
     ],
     "UAP,Version=v10.0": []
-  }
+  },
+  "tools": {},
+  "projectFileToolGroups": {}
 }

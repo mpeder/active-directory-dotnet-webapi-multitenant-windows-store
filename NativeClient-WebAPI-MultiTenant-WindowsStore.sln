@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoListServiceMT", "TodoListServiceMT\TodoListServiceMT.csproj", "{5D5442E2-63F1-493A-AEC1-72C0E5B9523B}"
 EndProject
@@ -37,6 +37,8 @@ Global
 		{5D5442E2-63F1-493A-AEC1-72C0E5B9523B}.Release|x64.ActiveCfg = Release|Any CPU
 		{5D5442E2-63F1-493A-AEC1-72C0E5B9523B}.Release|x86.ActiveCfg = Release|Any CPU
 		{0E6570DC-B779-4F2E-B145-9442DFA9E070}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{0E6570DC-B779-4F2E-B145-9442DFA9E070}.Debug|Any CPU.Build.0 = Debug|x86
+		{0E6570DC-B779-4F2E-B145-9442DFA9E070}.Debug|Any CPU.Deploy.0 = Debug|x86
 		{0E6570DC-B779-4F2E-B145-9442DFA9E070}.Debug|ARM.ActiveCfg = Debug|ARM
 		{0E6570DC-B779-4F2E-B145-9442DFA9E070}.Debug|ARM.Build.0 = Debug|ARM
 		{0E6570DC-B779-4F2E-B145-9442DFA9E070}.Debug|ARM.Deploy.0 = Debug|ARM

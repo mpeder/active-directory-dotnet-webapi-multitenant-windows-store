@@ -35,15 +35,15 @@ namespace TodoListClient
         }
 
         // The following Azure AD properties are used by multiple pages in the app
-        
+
         // Properties of the web API invoked
-        public const string ResourceID = "https://developertenant.onmicrosoft.com/TodoListServiceMT";        
-        public const string APIHostname = "https://localhost:44301";
+        public const string ResourceID = "https://damocotest1.onmicrosoft.com/TodoListServiceMT";        
+        public const string APIHostname = "https://localhost:44321";
         public const string APIOnboardPath = "/API/SignUp/Onboard";
         public const string APITodoListPath = "/API/todolist";
 
         // Properties of the native client app
-        public const string ClientID = "94da0930-763f-45c7-8d26-04d5938baab2";
+        public const string ClientID = "e2e3fe03-cbfd-42e5-9196-669af4209a3d";
         public static Uri ReturnUri = WebAuthenticationBroker.GetCurrentApplicationCallbackUri();
 
         // Properties used for communicating with the Windows Azure AD tenant of choice
